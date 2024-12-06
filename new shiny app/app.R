@@ -23,6 +23,7 @@
 library(shiny)        # For creating the Shiny web application
 library(datateachr)   # For accessing the flow_sample dataset
 library(tidyverse)    # For data manipulation
+library(DT)           # For interactive table
 
 data <- flow_sample
 
