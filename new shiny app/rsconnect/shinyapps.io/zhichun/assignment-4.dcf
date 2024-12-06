@@ -1,0 +1,12 @@
+name: assignment-4
+title: assignment-4
+username: zhichun
+account: zhichun
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13536264
+bundleId: 9471029
+url: https://zhichun.shinyapps.io/assignment-4/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
